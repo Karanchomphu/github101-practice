@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| กรัณย์ชมพู วงษ์เสถียร | Team 03 | Project Manager / Product| [example evidence](docs/evidence/example-student.md) | - |
+| กรัณย์ชมพู วงษ์เสถียร | Team 03 | Project Manager / Product| (docs/evidence/67050155-Karanchomphu.md) | https://github.com/Karanchomphu/github101-practice/blob/main/docs/evidence/67050155-Karanchomphu.md |
 
 ---
 
